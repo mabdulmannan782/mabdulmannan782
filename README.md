@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm Abdul Mannan
 
-<!--
-**mabdulmannan782/mabdulmannan782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a full-stack developer from Pakistan with a passion for building modern web applications and systems that solve real-world problems.
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- 🌐 HTML | CSS | JavaScript | Bootstrap
+- 💻 C# | ASP.NET Core | .NET Framework
+- 🐍 Python | Django | Flask
+- 🗄️ SQL Server | MySQL | SQLite
+- 🧰 Git | GitHub | VS Code | Visual Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Projects
+- ✅ [Hospital Management System](https://github.com/mabdulmannan782/hospital_management_system)
+- ✅ [Student Info System](https://github.com/mabdulmannan782/student_information_system)
+- ✅ [Flashcard DSA Practice](https://github.com/mabdulmannan782/flashcard_dsa_project)
+- ✅ [Interview System](https://github.com/mabdulmannan782/neural_algo)
+
+## 🌍 Let's Connect
+- 📫 Email: mabdulmannan782@gmail.com  
+- 🌐 LinkedIn: [Add your link here]  
+- 📍 Karachi, Pakistan
